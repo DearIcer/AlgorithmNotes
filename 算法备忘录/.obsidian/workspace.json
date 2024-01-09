@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/Jaccard系数算法.md",
-                "mode": "source",
+                "file": "未命名/DFA敏感词匹配.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名/Jaccard系数算法.md",
+                "file": "未命名/DFA敏感词匹配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名/Jaccard系数算法.md",
+                "file": "未命名/DFA敏感词匹配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名/Jaccard系数算法.md"
+                "file": "未命名/DFA敏感词匹配.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "955bcbd55998ac7b",
   "lastOpenFiles": [
-    "未命名/寻路.md",
+    "未命名.md",
+    "未命名/DFA敏感词匹配.md",
     "未命名/Jaccard系数算法.md",
+    "未命名/寻路.md",
     "未命名/二叉树.md",
     "未命名/红黑树.md",
     "未命名/退火算法.md",
